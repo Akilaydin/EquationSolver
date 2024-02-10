@@ -1,0 +1,14 @@
+H:\CSharpProjects\EquationSolver\EquationSolver\bin\Debug\net8.0\EquationSolver.exe
+H:\CSharpProjects\EquationSolver\EquationSolver\bin\Debug\net8.0\EquationSolver.deps.json
+H:\CSharpProjects\EquationSolver\EquationSolver\bin\Debug\net8.0\EquationSolver.runtimeconfig.json
+H:\CSharpProjects\EquationSolver\EquationSolver\bin\Debug\net8.0\EquationSolver.dll
+H:\CSharpProjects\EquationSolver\EquationSolver\bin\Debug\net8.0\EquationSolver.pdb
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.AssemblyInfoInputs.cache
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.AssemblyInfo.cs
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.csproj.CoreCompileInputs.cache
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.dll
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\refint\EquationSolver.dll
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.pdb
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\EquationSolver.genruntimeconfig.cache
+H:\CSharpProjects\EquationSolver\EquationSolver\obj\Debug\net8.0\ref\EquationSolver.dll
